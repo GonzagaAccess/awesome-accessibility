@@ -5,6 +5,7 @@ This is a utility list for accessibility-based development.
 ## Development Teams
 
 - [axe](https://www.deque.com/axe/) - Testing you front-end based on accessibility.
+- [vue-a11y](https://vue-a11y.com/) - Vue.js community project to improve web accessibility.
 
 ## Frameworks
 
