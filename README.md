@@ -14,6 +14,10 @@ This is a utility list for accessibility-based development.
 - [google/Accessibility-Test-Framework-for-Android](https://github.com/GonzagaAccess/awesome-accessibility) - collects various accessibility-related checks on View objects as
 well as AccessibilityNodeInfo objects
 
+## Tools
+
+- [WAVE](https://wave.webaim.org/) - WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
+
 ## Plugins
 
 - [Storybook addon](https://www.npmjs.com/package/@storybook/addon-a11y) - Addon to helpful make your UI components more accessible.
