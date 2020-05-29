@@ -2,6 +2,11 @@
 
 This is a utility list for accessibility-based development.
 
+## Manifest/Pages
+
+- [MW-PT](https://mwpt.com.br/) - _"Contribuímos para a construção de uma web acessível a todos.
+Mobilizamos organizações, profissionais e pessoas com deficiência por meio de oficinas, debates, estudos e outras ações em prol da acessibilidade digital."_
+
 ## Development Teams
 
 - [axe](https://www.deque.com/axe/) - Testing you front-end based on accessibility.
