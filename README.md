@@ -30,3 +30,4 @@ well as AccessibilityNodeInfo objects
 - [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Evaluate web accessibility within the Chrome browser.
 - [paypal/AATT](https://github.com/paypal/AATT) - Automated Accessibility Testing Tool
 - [JLogam](https://github.com/luanrafael/JLogam) - JavaScript Library for Open Gestures Acessibility Mobile
+- [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Plugin for [eslint (a linting tool for javascript)](https://eslint.org/) that adds accessibility rules for use on template of a vue project
