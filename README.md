@@ -2,6 +2,8 @@
 
 This is a utility list for accessibility-based development.
 
+Also, if you ever felt confused, ["accessibility" is written as "a11y"](https://www.boia.org/blog/what-is-a11y#:~:text=The%20%E2%80%9C11%E2%80%9D%20in%20the%20middle,%2C%22%20so%20accessibility%20becomes%20a11y.) as abbreviation, so the next time you read "a11y" you will know what it stands for.
+
 ## Manifest/Pages
 
 - [MW-PT](https://mwpt.com.br/) - _"Contribuímos para a construção de uma web acessível a todos.
