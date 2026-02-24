@@ -24,6 +24,7 @@ well as AccessibilityNodeInfo objects
 ## Tools
 
 - [WAVE](https://wave.webaim.org/) - WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
+- [RatedWithAI](https://ratedwithai.com/) - AI-powered accessibility scanner for ADA and WCAG 2.2 compliance with actionable fix recommendations. Free scanner available.
 
 ## Plugins
 
