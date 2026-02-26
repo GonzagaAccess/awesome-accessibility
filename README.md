@@ -23,6 +23,8 @@ well as AccessibilityNodeInfo objects
 
 ## Tools
 
+- [PageGuard](https://pageguard.org) - Free website health scanner with WCAG 2.1 accessibility compliance checks, performance, SEO, and AI-powered action plans. No signup required.
+
 - [WAVE](https://wave.webaim.org/) - WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ## Plugins
