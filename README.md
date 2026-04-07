@@ -22,6 +22,7 @@ Mobilizamos organizações, profissionais e pessoas com deficiência por meio de
 well as AccessibilityNodeInfo objects
 
 ## Tools
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) - AI-powered alt text generator and WCAG 2.1 compliance checker for WordPress. Bulk generation, rule-based templates (free, offline), 5-status quality scoring. SaaS platform at altaudit.com.
 
 - [WAVE](https://wave.webaim.org/) - WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
