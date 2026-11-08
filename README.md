@@ -23,6 +23,7 @@ well as AccessibilityNodeInfo objects
 
 ## Tools
 
+- [Calculation Hub Contrast Ratio Calculator](https://calculation-hub.com/colors/contrast-ratio) - Free foreground/background contrast calculations with text previews; checks color pairs, not whole-site accessibility.
 - [WAVE](https://wave.webaim.org/) - WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ## Plugins
